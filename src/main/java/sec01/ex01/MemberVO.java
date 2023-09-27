@@ -7,7 +7,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-//VO
+//VO 이것은 VO
 
 @Data  //@Data 어노테이션은 @Getter @Setter @ToString 을 다 대체
 @NoArgsConstructor
